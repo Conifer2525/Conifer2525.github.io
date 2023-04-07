@@ -1,0 +1,91 @@
+/* 漫研画集のテキスト色変更 */
+.dit{
+    width: 100%;
+    color: #949494;
+    font-size: 10px;
+}
+
+/* ブログのタイトルの背景色 */
+
+.brobg1{
+width: 100%;
+background-color: #A2A5B9;
+}
+
+
+
+/* 全体の色指定 not */
+
+/*
+.hpbg{
+
+   width: 100%
+   background-color: #333646;
+}
+*/
+
+/* 画集のタイトルの背景色 */
+
+.picbg{
+width: 100%;
+background-color: #ffffff;
+color: #000000;
+}
+
+/* 画集の全体の背景色 not */
+
+.picbg2{
+width: 100%;
+
+color: #ffffff;
+}
+
+/* 制作者表示 */
+
+.editer{
+    color: mediumslateblue;
+}
+
+/* 最終更新表示 */
+
+.latest{
+    color: #C2C2C2;
+    font-size: 12px;
+}
+
+/* headerタグ */
+
+.top{
+    text-align: center;
+    background-color: #ffffff;
+    top: 0;
+    left: 0;
+    right: 0;
+  }
+  h1 {
+    line-height: 2;
+  }
+  nav ul {
+    display: flex;
+    justify-content: center;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  nav ul li {
+    width: 15%;
+  }
+
+.navi{
+    background-color: #889ECE;
+}
+
+.contents{
+    font-size: 20px;
+
+}
+
+.title{
+  font-size: 50px;
+  font-family: 'Noto Serif JP', serif;
+}
